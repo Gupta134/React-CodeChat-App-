@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodeChat-App/static/css/main.9105260c.css",
+    "main.js": "/CodeChat-App/static/js/main.cf680e7a.js",
+    "static/js/787.6f726199.chunk.js": "/CodeChat-App/static/js/787.6f726199.chunk.js",
+    "index.html": "/CodeChat-App/index.html",
+    "main.9105260c.css.map": "/CodeChat-App/static/css/main.9105260c.css.map",
+    "main.cf680e7a.js.map": "/CodeChat-App/static/js/main.cf680e7a.js.map",
+    "787.6f726199.chunk.js.map": "/CodeChat-App/static/js/787.6f726199.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9105260c.css",
+    "static/js/main.cf680e7a.js"
+  ]
+}
